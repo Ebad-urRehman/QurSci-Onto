@@ -183,3 +183,24 @@ Under the following terms:
 - **Non-Commercial** — You may not use the material for commercial purposes.
 
 View the full license: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
+### Cite the dataset
+If you have used this dataset cite the paper 
+- bibtex
+```bibtex
+@inproceedings{rashid-etal-2026-qursci,
+    title = "{Q}ur{S}ci-Onto: A Hierarchical Ontology and Dataset for Scientific Exegesis in the {Q}uran",
+    author = "Rashid, Ibad-ur-Rehman  and
+      Hussain, Junaid  and
+      Al-Azani, Sadam",
+    booktitle = "Proceedings of the 2nd Workshop on {NLP} for Languages Using {A}rabic Script",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.abjadnlp-1.22/",
+    pages = "149--165",
+    abstract = "This paper introduces resources for the computational study of scientific exegesis (Tafsir Ilmi): a structured ontology, a curated dataset of 194 scientifically relevant Quranic verses linked to 260 exegetical records from two authoritative Tafsir books, and an annotation framework that organizes scientific references by topic and sequential context. Existing Quranic resources treat verses as unstructured text, losing the logical order and causal relationships of scientific concepts documented in exegesis. To address this, we present QurSci-Onto, a three-layer ontology that categorizes verses by scientific domain, links them to authoritative Tafsir, and provides a framework for representing sequential processes through stage-based annotations. Our dataset includes page-level citations and covers 8 major scientific topics across 73 nodes. While the full corpus is tagged with broad categories and scientific topics, a specialized subset features granular node-level mappings to capture complex scientific narratives. We release QurSci-Onto as a foundational resource for Arabic semantic NLP and demonstrate that it enables significant improvements in semantic retrieval and enables multi-hop sequential reasoning capabilities over unstructured baselines."
+}
+```
