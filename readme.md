@@ -153,12 +153,6 @@ For questions, issues, or contributions, please use the repository's issue track
 
 ### ❓ Questions Answers for Clarity
 
-Q: Why only 36 out of 194 verses have scientific topic mappings?
-A: Our annotation follows a phased approach: all 194 verses are linked to Tafsir, 36 are mapped to specific scientific topics, and 24 have granular node-level annotations. This reflects the progressive depth of annotation.
-
-Q: Can I get the full Tafsir texts?
-A: No, due to copyright restrictions. We provide precise page citations for verification in the original published volumes.
-
 Q: How were the scientific nodes validated?
 A: Through a two-stage process: (1) extraction from Tafsir using LLMs with strict provenance tracking, (2) validation by domain experts from Islamic studies faculties.
 
