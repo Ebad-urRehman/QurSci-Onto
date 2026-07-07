@@ -199,4 +199,4 @@ If you have used this dataset cite the paper
 }
 ```
 
-Next work in progress aims to cover retrieval benchmarking on this dataset Inshaa Allah.
+Next work in progress aims digitize full Tafsir books and to cover retrieval benchmarking on this dataset Inshaa Allah.
