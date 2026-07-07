@@ -137,7 +137,7 @@ Important: The original Tafsir books are copyrighted. This dataset provides only
 | Total annotated verses | 194 |
 | Tafsir exegesis records | 260 |
 | Scientific ontology nodes | 74 |
-| Major scientific topics | 8 |
+| Layer 3 scientific topics | 8 |
 | Verses mapped to topics | 36 |
 | Verses with node-level mapping | 24 |
 | Evaluation queries | 24 |
@@ -198,3 +198,5 @@ If you have used this dataset cite the paper
     abstract = "This paper introduces resources for the computational study of scientific exegesis (Tafsir Ilmi): a structured ontology, a curated dataset of 194 scientifically relevant Quranic verses linked to 260 exegetical records from two authoritative Tafsir books, and an annotation framework that organizes scientific references by topic and sequential context. Existing Quranic resources treat verses as unstructured text, losing the logical order and causal relationships of scientific concepts documented in exegesis. To address this, we present QurSci-Onto, a three-layer ontology that categorizes verses by scientific domain, links them to authoritative Tafsir, and provides a framework for representing sequential processes through stage-based annotations. Our dataset includes page-level citations and covers 8 major scientific topics across 73 nodes. While the full corpus is tagged with broad categories and scientific topics, a specialized subset features granular node-level mappings to capture complex scientific narratives. We release QurSci-Onto as a foundational resource for Arabic semantic NLP and demonstrate that it enables significant improvements in semantic retrieval and enables multi-hop sequential reasoning capabilities over unstructured baselines."
 }
 ```
+
+Next work in progress aims to cover retrieval benchmarking on this dataset Inshaa Allah.
