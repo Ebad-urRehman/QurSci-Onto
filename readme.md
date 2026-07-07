@@ -1,5 +1,7 @@
 # QurSci-Onto: Resources for Computational Scientific Exegesis (Tafsir Ilmi)
 
+
+
 This repository contains the supplementary resources for research on process-aware ontology and dataset for Scientific Exegesis (Tafsir Ilmi).
 
 ## 📁 Repository Structure
@@ -177,6 +179,8 @@ Under the following terms:
 - **Non-Commercial** — You may not use the material for commercial purposes.
 
 View the full license: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[Dataset Paper Link](https://aclanthology.org/2026.abjadnlp-1.22/)
 
 
 ### Cite the dataset
